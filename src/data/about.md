@@ -1,7 +1,7 @@
 
 # Intro
 
-I am the VP of Engineering at Smile Identity, where I work on tools that have helped over 60,000,000 people in Africa gain access to financial services. Before Smile, I was the co-founder & CTO of [Arthena](https://arthena.com) and a co-founder of [Matroid](https://matroid.com). In my spare time, I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects with high social impact. If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
+I am Sonja Olson
 
 # Some history
 
@@ -41,14 +41,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 - Running
 - Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+
 
 # Travel / Geography
 
@@ -79,7 +72,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - doing better.
 - you not checking the commit history for earlier drafts of this file.
 
-# Websites from people I admire
+<!-- # Websites from people I admire
 
 - [Alex Peysakhovich](http://alexpeys.github.io/)
 - [Chris Lengerich](http://www.chrislengerich.com/)
@@ -94,6 +87,4 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - [Noah Trueblood](http://notrueblood.com/)
 - [Ruoxi Wang](http://ruoxiw.com/)
 - [Tom Sachs](https://www.tomsachs.org/)
-- [Will Holley](https://willholley.com)
-
-If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me and I'll add you.
+- [Will Holley](https://willholley.com) -->
