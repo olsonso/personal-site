@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/sonjaolson.co/static/css/main.03000278.css",
+    "main.js": "/sonjaolson.co/static/js/main.d5f76c6f.js",
+    "static/js/964.4fb1bfda.chunk.js": "/sonjaolson.co/static/js/964.4fb1bfda.chunk.js",
+    "static/js/562.cd29c045.chunk.js": "/sonjaolson.co/static/js/562.cd29c045.chunk.js",
+    "static/js/478.53ce6a30.chunk.js": "/sonjaolson.co/static/js/478.53ce6a30.chunk.js",
+    "static/js/922.950c5cf1.chunk.js": "/sonjaolson.co/static/js/922.950c5cf1.chunk.js",
+    "static/js/161.f6eda571.chunk.js": "/sonjaolson.co/static/js/161.f6eda571.chunk.js",
+    "static/js/154.51a28cd8.chunk.js": "/sonjaolson.co/static/js/154.51a28cd8.chunk.js",
+    "static/js/209.04592873.chunk.js": "/sonjaolson.co/static/js/209.04592873.chunk.js",
+    "static/js/625.241d69ba.chunk.js": "/sonjaolson.co/static/js/625.241d69ba.chunk.js",
+    "static/js/773.d56afb2f.chunk.js": "/sonjaolson.co/static/js/773.d56afb2f.chunk.js",
+    "static/media/about.md": "/sonjaolson.co/static/media/about.562f5ba238baa3643e4a.md",
+    "index.html": "/sonjaolson.co/index.html",
+    "main.03000278.css.map": "/sonjaolson.co/static/css/main.03000278.css.map",
+    "main.d5f76c6f.js.map": "/sonjaolson.co/static/js/main.d5f76c6f.js.map",
+    "964.4fb1bfda.chunk.js.map": "/sonjaolson.co/static/js/964.4fb1bfda.chunk.js.map",
+    "562.cd29c045.chunk.js.map": "/sonjaolson.co/static/js/562.cd29c045.chunk.js.map",
+    "478.53ce6a30.chunk.js.map": "/sonjaolson.co/static/js/478.53ce6a30.chunk.js.map",
+    "922.950c5cf1.chunk.js.map": "/sonjaolson.co/static/js/922.950c5cf1.chunk.js.map",
+    "161.f6eda571.chunk.js.map": "/sonjaolson.co/static/js/161.f6eda571.chunk.js.map",
+    "154.51a28cd8.chunk.js.map": "/sonjaolson.co/static/js/154.51a28cd8.chunk.js.map",
+    "209.04592873.chunk.js.map": "/sonjaolson.co/static/js/209.04592873.chunk.js.map",
+    "773.d56afb2f.chunk.js.map": "/sonjaolson.co/static/js/773.d56afb2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03000278.css",
+    "static/js/main.d5f76c6f.js"
+  ]
+}
