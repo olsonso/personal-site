@@ -45,4 +45,4 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 - always finding inspiration.
 - enabling a brighter future.
-- doing better.
+- starting my own business.
