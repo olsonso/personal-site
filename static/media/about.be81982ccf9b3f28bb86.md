@@ -5,9 +5,6 @@ I am Sonja Olson
 
 # Some history
 
-- 
-
-Ask me in person for other stories that I'm afraid to share with the internet.
 
 # I like
 
@@ -39,10 +36,9 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - I have been lucky enough to swim with a whale shark in Hawaii
 - My pinkies are permantley crooked
 - I have never seen all the Harry Potters (shocking to many)
-- 
 
 # I dream of
 
 - always finding inspiration.
 - enabling a brighter future.
-- starting my own business.
+- doing better.
