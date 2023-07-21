@@ -18,7 +18,14 @@ const work = [
     url: 'https://getquil.com',
     startDate: '2022-01-01',
     summary: 'Quil provides income protection when you need it most',
-    highlights: [],
+    highlights: [
+      'Drove product development end-to-end for strategizing brand new insurance product to market.',
+      'Increased conversions by 12% with A/B testing by Identified key drop off point in sign up flow.',
+      'Led full Stripe integration automating billing subscription and managing disputes.',
+      'Conducted user research to identify key user behavior and needs related to insurance products in development of launching new MVP product successfully onboarding over 16,000 customers.',
+      'Developed and monitored key product metrics including user acquisition, retention and revenue to identify areas for improvement and clearly communicate product data to leadership.',
+      'Cultivated a culture of collaboration with cross-function teams, including design, engineering, marketing and partners to align product development and launch with regulatory compliance.',
+    ],
   },
   {
     name: 'New Relic',
@@ -27,7 +34,9 @@ const work = [
     startDate: '2019-07-01',
     summary: 'Senior software engineer on logging team',
     highlights: [
-      'Developed and maintained UI interface for user to manage their logging and customize logging features',
+      'Strategized and built stable and maintainable React app by presenting beneficial business case for converting entire code base to TypeScript resulting in a large decrease in production bugs.',
+      'Helped lead and conduct user research through video guided user research sessions identifying key areas of improvement on key logging product.',
+      'Active leader and mentor for 3 engineers continually training and teaching best practices through pair programing, pull request reviews and leveraging opportunities for growth.',
     ],
   },
   {
@@ -39,6 +48,9 @@ const work = [
     summary: 'Investing app',
     highlights: [
       'Build web platform for retirement accounts',
+      'Strategically maintanged and groomed prioritized backlog for retirement platform.',
+      'Active leader in product discussions bringing engineering background and knowledge for creating product strategy and road map planning.',
+      'Led and developed end of year "Year in Review" increasing recurring contributions by 21%.',
     ],
   },
   {
