@@ -6,17 +6,12 @@ const skills = [
   },
   {
     title: 'React',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Next.JS',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Javascript'],
   },
   {
     title: 'AWS',
-    competency: 3,
+    competency: 2,
     category: ['Tools', 'Web Development'],
   },
   {
