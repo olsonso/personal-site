@@ -31,7 +31,8 @@ const work = [
     name: 'New Relic',
     position: 'Senior Software Engineer',
     url: 'http://newrelic.com',
-    startDate: '2019-07-01',
+    startDate: '2020-07-01',
+    endDate: '2022-01-01',
     summary: 'Senior software engineer on logging team',
     highlights: [
       'Strategized and built stable and maintainable React app by presenting beneficial business case for converting entire code base to TypeScript resulting in a large decrease in production bugs.',
